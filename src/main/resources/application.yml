@@ -1,0 +1,8 @@
+server:
+  port: ${PORT:5000}
+  servlet:
+    contextPath: /home-automation
+home-automation:
+  security:
+    username: ${USERNAME:cem}
+    password: ${PASSWORD:cem}

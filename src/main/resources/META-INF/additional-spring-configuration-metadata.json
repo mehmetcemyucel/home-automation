@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "home-automation.security.username",
+    "type": "java.lang.String",
+    "description": "A description for 'home-automation.security.username'"
+  },
+  {
+    "name": "home-automation.security.password",
+    "type": "java.lang.String",
+    "description": "A description for 'home-automation.security.password'"
+  }
+]}
